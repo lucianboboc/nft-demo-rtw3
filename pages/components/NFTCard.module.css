@@ -1,0 +1,8 @@
+#cardid {
+    color: black;
+}
+
+#cardid:hover {
+    color: orange;
+    cursor: grab;
+}
